@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kennethyu89567.github.io
+title: Awesome
+email: 
+author: kennethyu89567
+description: My awesome new site
+paginate: 3
+google_analytics: 
